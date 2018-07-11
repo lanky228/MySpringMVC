@@ -1,0 +1,10 @@
+
+build/
+out/
+.idea/
+.gradle/
+.idea/
+gradle/
+springMVC.iml
+springMVC.ipr
+springMVC.iws
